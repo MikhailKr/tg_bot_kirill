@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:03:58.596Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.4.0" etag="-ymL609F3pVL0Ngxw9gd" type="github"><diagram id="YrT273F_2jcsZkY_zvez">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-11T09:33:54.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="NsHinAT32G_pHRQiMtVf" version="20.4.0" type="github">
+  <diagram id="YrT273F_2jcsZkY_zvez" name="Page-1">
+    <mxGraphModel dx="1228" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="181VS7PO-LBfEjY6JASZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-1" target="181VS7PO-LBfEjY6JASZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-1" value="Register (linked to user id) --&amp;gt; write user stories&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-2" target="181VS7PO-LBfEjY6JASZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-2" target="181VS7PO-LBfEjY6JASZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-2" value="Form user (object-feature) descricption:&amp;nbsp;&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-3" target="181VS7PO-LBfEjY6JASZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-3" target="181VS7PO-LBfEjY6JASZ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-3" value="Предложить на выбор несколько треков психологической помощи (какой трек подходит для конкретного пользователя)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-4" target="181VS7PO-LBfEjY6JASZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-4" value="Анкета в google docs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-5" target="181VS7PO-LBfEjY6JASZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-5" value="Анкета в ТГ (список вопросов), пройти анкетирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-7" value="другие варианты (линк. по соц сетям)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-10" value="Какие признаки являются наиболее важными ?? Какие вопросы спрашивать ? Сильно ли сложные вопросы улучшают качество рекомендаций ?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-11" target="181VS7PO-LBfEjY6JASZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-11" target="181VS7PO-LBfEjY6JASZ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-11" value="В зависимости от выбранного трека сформировать структуру рекомендаций&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="305" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-12" target="181VS7PO-LBfEjY6JASZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-12" value="Сколько минут в день пользователь хочет тратить на практику" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-13" target="181VS7PO-LBfEjY6JASZ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-13" value="Что он предпочитает --&amp;gt; видео или статью, общение с психологом, что-то еще ??&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-14" value="Что он предпочитает --&amp;gt; видео или статью&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="181VS7PO-LBfEjY6JASZ-15" target="181VS7PO-LBfEjY6JASZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-15" value="Добавить возможность отказываться от текущего трека и выбирать новый" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-16" value="Добавить возможность отказываться от текущего трека и выбирать новый" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-17" value="После прохождения трека, добавить возможность выбора нового трека или найти похожее, собрать фидбек&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="297.5" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="181VS7PO-LBfEjY6JASZ-27" value="Какие метрики мы собираем и как мы хотим их анализировать?? --&amp;gt; рекомендательные системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-90" width="130" height="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
