@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T09:53:46.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EOL42VSs4HKCdqrEaWmf" version="20.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-13T07:50:05.046Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ExgAgJomLTaQ9PJCdUHV" version="20.4.0" type="github" pages="2">
   <diagram id="YrT273F_2jcsZkY_zvez" name="user_line">
-    <mxGraphModel dx="1228" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="1721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7eVot1TmzKvVpEMyLla1" name="tg_bot architecture">
-    <mxGraphModel dx="1228" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
